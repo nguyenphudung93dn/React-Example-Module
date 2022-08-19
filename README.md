@@ -6,7 +6,7 @@ Authur: nguyenphudung
 
 Website: https://nguyenphudung.com
 
-This page: https://nguyenphudung.com/huong-dan-nhung-react-vao-module-drupal-9
+This page: https://nguyenphudung.com/huong-dan-su-dung-react-vao-module-drupal-9
 
 #Install
 
