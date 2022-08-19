@@ -1,0 +1,7 @@
+name: React Example Module
+type: module
+description: This is React Example Module
+core_version_requirement: ^8 || ^9
+core: 8.x
+package: Custom module
+

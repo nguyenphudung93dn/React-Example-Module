@@ -1,0 +1,7 @@
+react_example_module._form:
+  path: '/react-example-module'
+  defaults:
+    _controller: '\Drupal\react_example_module\Controller\ReactExampleController::get_form'
+    _title: 'React Example Module'
+  requirements:
+    _permission: 'access content'

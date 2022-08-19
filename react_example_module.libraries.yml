@@ -1,0 +1,10 @@
+react_app:
+  version: VERSION
+  js:
+    reactjs/js/dist/main.min.js: { minified: true }
+
+react_app_dev:
+  version: VERSION
+  js:
+    reactjs/js/dist_dev/main.min.js: {minified: true}
+    
